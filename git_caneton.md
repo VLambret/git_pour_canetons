@@ -88,8 +88,6 @@ git log
 ```
 git init
 git add
-  git add .
-  git add -- fichier.txt
 git commit
 git log
 git status
